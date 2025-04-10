@@ -1,7 +1,7 @@
 # Weatherapp
 
 # Weather App
-
+Front End html, cs , js. 
 A Django-based web application that fetches historical and current weather data for a given city or ZIP code using the OpenWeatherMap API. Users can view, edit, and save weather records in a SQLite database. The app supports geolocation to detect the user's location, displays a 5-day forecast, and allows users to manage weather records (edit temperature and description, delete records).
 
 ## Features
